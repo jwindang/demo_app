@@ -24,10 +24,19 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" showNonProject="false" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="9" selection-start="80" selection-end="80" vertical-scroll-proportion="0.265625">
+            <state line="9" column="9" selection-start="80" selection-end="80" vertical-scroll-proportion="-6.12">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="55" selection-start="108" selection-end="108" vertical-scroll-proportion="0.059027776">
               <folding />
             </state>
           </provider>
@@ -39,6 +48,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README" />
       </list>
     </option>
   </component>
@@ -293,7 +303,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="9" selection-start="80" selection-end="80" vertical-scroll-proportion="0.265625">
+        <state line="9" column="9" selection-start="80" selection-end="80" vertical-scroll-proportion="-6.12">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="55" selection-start="108" selection-end="108" vertical-scroll-proportion="0.059027776">
           <folding />
         </state>
       </provider>
